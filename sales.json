@@ -1,0 +1,72 @@
+[
+    {
+        "bill_no": "20260919173535",
+        "date": "19-09-2026 05:35 PM",
+        "customer": "Vivek",
+        "mobile": "98766",
+        "product": "Cement",
+        "quantity": 4,
+        "total": 1600.0
+    },
+    {
+        "bill_no": "20260919173808",
+        "date": "19-09-2026 05:38 PM",
+        "customer": "Rahaul",
+        "mobile": "575765",
+        "product": "TMT Steel",
+        "quantity": 5,
+        "total": 380.0
+    },
+    {
+        "bill_no": 3,
+        "date": "19-09-2026 06:57:37 PM",
+        "customer": "Vikas",
+        "mobile": "9140085363",
+        "product": "Cement",
+        "quantity": 10,
+        "price": 400.0,
+        "total": 4000.0
+    },
+    {
+        "bill_no": 20260919173809,
+        "date": "19-09-2026 07:14:43 PM",
+        "customer": "Rahul",
+        "mobile": "9876543210",
+        "items": [
+            {
+                "product": "Cement",
+                "quantity": 2,
+                "price": 400.0,
+                "total": 800.0
+            },
+            {
+                "product": "Tiles",
+                "quantity": 5,
+                "price": 7.0,
+                "total": 35.0
+            }
+        ],
+        "total": 835.0
+    },
+    {
+        "bill_no": 20260919173810,
+        "date": "19-09-2026 07:56:48 PM",
+        "customer": "Ravi Yadav",
+        "mobile": "0987654321",
+        "items": [
+            {
+                "product": "Sand",
+                "quantity": 5,
+                "price": 5999.0,
+                "total": 29995.0
+            },
+            {
+                "product": "Tiles",
+                "quantity": 25,
+                "price": 7.0,
+                "total": 175.0
+            }
+        ],
+        "total": 30170.0
+    }
+]

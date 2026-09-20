@@ -1,0 +1,26 @@
+{
+    "Cement": {
+        "quantity": 167,
+        "price": 400.0
+    },
+    "Sand": {
+        "quantity": 15,
+        "price": 5999.0
+    },
+    "TMT Steel": {
+        "quantity": 20,
+        "price": 76.0
+    },
+    "TMT wire": {
+        "quantity": 40,
+        "price": 24.0
+    },
+    "Bricks": {
+        "quantity": 20,
+        "price": 9.0
+    },
+    "Tiles": {
+        "quantity": 170,
+        "price": 7.0
+    }
+}
